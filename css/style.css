@@ -37,6 +37,22 @@ body, html {
     background-image: url("../img/slide2.jpg");
 }
 
+.img-5 {
+    background-image: url("../img/slide5.jpg");
+}
+
+.img-6 {
+    background-image: url("../img/slide6.png");
+}
+
+.img-7 {
+    background-image: url("../img/slide7.jpg");
+}
+
+.img-9 {
+    background-image: url("../img/slide9.jpg");
+}
+
 .fs-video {
     margin: auto;
     position: absolute;
